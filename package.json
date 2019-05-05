@@ -1,6 +1,6 @@
 {
   "name": "npm-user-profile",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Get your npm user profile easily.",
   "main": "index.js",
   "scripts": {
