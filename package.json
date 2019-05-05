@@ -1,7 +1,7 @@
 {
   "name": "npm-user-profile",
   "version": "1.0.1",
-  "description": "",
+  "description": "Get your npm user profile easily.",
   "main": "index.js",
   "scripts": {
     "test": "mocha --timeout=3000 ./test/**.test.js"
